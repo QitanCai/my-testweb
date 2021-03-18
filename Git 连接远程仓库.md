@@ -16,19 +16,19 @@
 
 之后一路回车
 
-<img src="Git%20%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93.assets/image-20210317143325930.png" alt="image-20210317143325930" style="zoom:80%;" />
+<img src="./Git%20%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93.assets/image-20210317143325930.png" alt="image-20210317143325930" style="zoom:80%;" />
 
 回到 github 上，进入 Account => Settings（账户配置）：
 
-<img src="Git%20%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93.assets/image-20210317143410509.png" alt="image-20210317143410509" style="zoom: 50%;" />
+<img src="./Git%20%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93.assets/image-20210317143410509.png" alt="image-20210317143410509" style="zoom: 50%;" />
 
 左边选择 **SSH and GPG keys**，然后点击 **New SSH key** 按钮，title 设置标题，可以随便填，粘贴在你电脑上生成的 key。	
 
-<img src="Git%20%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93.assets/image-20210317145441807.png" alt="image-20210317145441807" style="zoom: 50%;" />
+<img src="./Git%20%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93.assets/image-20210317145441807.png" alt="image-20210317145441807" style="zoom: 50%;" />
 
 为了验证是否成功，输入以下命令：
 
-![image-20210317145756717](Git%20%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93.assets/image-20210317145756717.png)
+![image-20210317145756717](./Git%20%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93.assets/image-20210317145756717.png)
 
 以下命令说明我们已成功连上 Github。
 
